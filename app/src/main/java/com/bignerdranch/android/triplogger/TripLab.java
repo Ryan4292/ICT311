@@ -173,10 +173,4 @@ public class TripLab {
 
     }
 
-
-//public void deleteTrip(Trip trip){
-//
-//    mDatabase.delete(TripDbSchema.TripTable.NAME, TripDbSchema.TripTable.Cols.UUID, new String[]{TripDbSchema.TripTable.Cols.UUID});
-//}
-
 }
