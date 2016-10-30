@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Trip Logger</string>
+    <string name="trip_title_hint">Enter a title for the trip.</string>
+    <string name="trip_title_label">Title</string>
+    <string name="trip_details_label">Details</string>
+    <string name="trip_destination_label">Destination</string>
+    <string name="new_trip">Log</string>
+    <string name="settings">Settings</string>
+    <string name="person_name">Enter Name</string>
+    <string name="person_id">Enter Id</string>
+    <string name="email_address">Enter Email Address</string>
+    <string name="gender">Enter Gender</string>
+    <string name="comment">Enter Comment</string>
+    <string name="duration">How long was the trip</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="camera_button">Camera Button</string>
+    <string name="camera_image">Camera Image</string>
+    <string name="john_cena">John Cena</string>
+    <string name="johncena_wwe_com">JohnCena@wwe.com</string>
+    <string name="_314159265358979323846264">314159265358979323846264</string>
+    <string name="male">male</string>
+    <string-array name="trip_type">
+         <item>Personal</item>
+         <item>Commute</item>
+         <item>Work</item>
+    </string-array>
+</resources>
